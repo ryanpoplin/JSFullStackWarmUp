@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a9e86c6-15bd-4207-aac1-6636b051fc24" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSDesignPatterns/js/air.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSDesignPatterns/js/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSDesignPatterns/js/car.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSDesignPatterns/js/control.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSDesignPatterns/js/engine.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSDesignPatterns/js/file.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JSDesignPatterns/js/file.reader.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JSDesignPatterns/js/test.one.js" afterPath="$PROJECT_DIR$/JSDesignPatterns/js/test.one.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JSDesignPatterns/js/air.js" afterPath="$PROJECT_DIR$/JSDesignPatterns/js/air.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JSDesignPatterns/js/car.js" afterPath="$PROJECT_DIR$/JSDesignPatterns/js/car.js" />
     </list>
     <ignored path="FullStackWarmUp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -105,28 +99,30 @@
       <file leaf-file-name="car.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JSDesignPatterns/js/car.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
-              <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
-              <folding />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
+              <caret line="31" column="42" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="file.reader.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="file.reader.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JSDesignPatterns/js/file.reader.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="825">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
               <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="air.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="air.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JSDesignPatterns/js/air.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
-              <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+            <state vertical-scroll-proportion="0.36363637" vertical-offset="0" max-vertical-offset="825">
+              <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -153,9 +149,9 @@
         <option value="$PROJECT_DIR$/JSDesignPatterns/js/file.js" />
         <option value="$PROJECT_DIR$/JSDesignPatterns/package.json" />
         <option value="$PROJECT_DIR$/JSDesignPatterns/js/control.js" />
-        <option value="$PROJECT_DIR$/JSDesignPatterns/js/air.js" />
-        <option value="$PROJECT_DIR$/JSDesignPatterns/js/car.js" />
         <option value="$PROJECT_DIR$/JSDesignPatterns/js/file.reader.js" />
+        <option value="$PROJECT_DIR$/JSDesignPatterns/js/car.js" />
+        <option value="$PROJECT_DIR$/JSDesignPatterns/js/air.js" />
       </list>
     </option>
   </component>
@@ -375,14 +371,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JSDesignPatterns/js/test.one.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
-          <caret line="35" column="59" selection-start-line="35" selection-start-column="59" selection-end-line="35" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JSDesignPatterns/js/engine.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
@@ -407,6 +395,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/JSDesignPatterns/js/car.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
+          <caret line="31" column="42" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSDesignPatterns/js/file.reader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="825">
+          <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSDesignPatterns/js/test.one.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
+          <caret line="35" column="59" selection-start-line="35" selection-start-column="59" selection-end-line="35" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/JSDesignPatterns/js/control.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
@@ -417,24 +431,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JSDesignPatterns/js/air.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
-          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSDesignPatterns/js/car.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
-          <caret line="16" column="3" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSDesignPatterns/js/file.reader.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="825">
-          <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.36363637" vertical-offset="0" max-vertical-offset="825">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
           <folding />
         </state>
       </provider>

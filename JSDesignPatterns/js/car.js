@@ -1,3 +1,5 @@
+/* a composition architecture... */
+
 var wheels = require("./wheels");
 // ./engine.js && ./engine are interchangeable...
 // var Engine = require("./engine");
