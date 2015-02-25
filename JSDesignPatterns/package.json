@@ -1,0 +1,11 @@
+{
+  "name": "JSDesignPatterns",
+  "version": "1.0.0",
+  "description": "JS Design Pattern Testing with Node...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "byrdannFox",
+  "license": "MIT"
+}

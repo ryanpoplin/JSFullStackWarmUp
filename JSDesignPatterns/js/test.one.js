@@ -29,6 +29,7 @@ var handleRequest = function(req, res) {
         setTimeout(function() {
             respond(res, 'B');
         }, 5000);
+        console.log('async...');
     }
 };
 

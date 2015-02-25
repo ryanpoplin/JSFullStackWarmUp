@@ -1,0 +1,3 @@
+// be aware of pointers of module.exports vs. exports...
+module.exports.a = 10;
+exports.b = 20;
